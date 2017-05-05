@@ -1,5 +1,5 @@
 {
-  "name": "remotestorage-util-chat-messages",
+  "name": "remotestorage-module-xmpp-credentials",
   "version": "1.0.0",
   "description": "Facilitates encryption and storage of credentials",
   "main": "./dist/build.js",
